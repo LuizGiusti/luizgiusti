@@ -281,16 +281,24 @@ h3 {
 
 
 
-.study-txt:nth-child(1) i {
+.study:nth-child(1) i {
     color: #ef5350;
 }
 
-.study-txt:nth-child(2) i {
+.study:nth-child(2) i {
     color: #EC407A;
 }
 
-.study-txt:nth-child(3) i {
+.study:nth-child(3) i {
     color: #AB47BC;
+}
+
+.study:nth-child(4) i {
+    color: #7E57C2;
+}
+
+.study:nth-child(5) i {
+    color: #5C6BC0;
 }
 
 
